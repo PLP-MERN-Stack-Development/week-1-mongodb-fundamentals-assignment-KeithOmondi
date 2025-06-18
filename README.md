@@ -18,8 +18,13 @@
 ### Insert Books
 To insert the sample books, open your `mongosh` shell and run:
 
-```bash
+```bash```
 mongosh
 
-// Inside mongosh shell
+```Inside mongosh shell``
 load("insert_books.js")
+
+<img width="951" alt="plp1" src="https://github.com/user-attachments/assets/829b3733-3409-4d73-8614-4771cab2a025" />
+<img width="953" alt="plp2" src="https://github.com/user-attachments/assets/223bfcab-837f-4d00-a63f-b2872d3d8518" />
+
+
