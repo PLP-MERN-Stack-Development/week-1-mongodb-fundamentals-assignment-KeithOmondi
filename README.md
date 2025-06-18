@@ -1,8 +1,8 @@
 # Week 1 MongoDB Assignment: plp_bookstore
 
-## Setup Instructions
+## Setup Instructions ###
 
-### MongoDB Setup
+### MongoDB Setup ###
 - Install MongoDB Community Edition from https://www.mongodb.com/try/download/community
 - Alternatively, create a free MongoDB Atlas cluster at https://www.mongodb.com/cloud/atlas
 - Connect using `mongosh` or MongoDB Compass
